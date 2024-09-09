@@ -4,3 +4,6 @@
 [submodule "lib/chimera"]
 	path = lib/chimera
 	url = https://github.com/Recon-Fuzz/chimera
+[submodule "lib/bold"]
+	path = lib/bold
+	url = https://github.com/liquity/bold
