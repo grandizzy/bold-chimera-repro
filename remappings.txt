@@ -5,3 +5,4 @@ ds-test/=lib/chimera/lib/forge-std/lib/ds-test/src/
 erc4626-tests/=lib/bold/contracts/lib/openzeppelin-contracts/lib/erc4626-tests/
 forge-std/=lib/forge-std/src/
 openzeppelin-contracts/=lib/bold/contracts/lib/openzeppelin-contracts/
+lib/bold/:lib/Solady/src/utils=lib/bold/contracts/lib/Solady/src/utils
